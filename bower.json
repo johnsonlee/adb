@@ -1,7 +1,7 @@
 {
   "name": "adb",
   "version": "0.0.1",
-  "homepage": "https://github.com/johnsonlee/libadb",
+  "homepage": "https://github.com/johnsonlee/adb",
   "authors": [
     "Johnson Lee <g.johnsonlee@gmail.com>"
   ],
