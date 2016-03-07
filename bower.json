@@ -1,0 +1,22 @@
+{
+  "name": "adb",
+  "version": "0.0.1",
+  "homepage": "https://github.com/johnsonlee/libadb",
+  "authors": [
+    "Johnson Lee <g.johnsonlee@gmail.com>"
+  ],
+  "description": "Android Debug Bridge (ADB) Client for Chrome Application",
+  "main": "adb.js",
+  "keywords": [
+    "android",
+    "adb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
